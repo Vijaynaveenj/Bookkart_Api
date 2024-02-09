@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run build",
-    "start": "node src/index.js",
-    "dev": " \" cls && nodemon  -q src/index.js \""
+    "start": "node index.js",
+    "dev": " \" cls && nodemon  -q index.js \""
   },
   "author": "",
   "license": "ISC",
